@@ -1,0 +1,9 @@
+To create a docker image for hellowei, do following
+docker build -t <docker id>/hellowei . 
+You can publish to your docker registry under docker id above.
+First, docker login
+Then, docker push <docker id>/hellowei
+To run the image, do 
+docker run <docker id>/hellowei
+
+This image has already be uploaded to venrwoo/hellowei

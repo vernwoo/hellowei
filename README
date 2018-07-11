@@ -1,0 +1,2 @@
+This simple project is a command line program which prints out "hello wei". 
+In publish folder, there is instruction on how to package this as a docker image and deploy and run it on top of windowsservercore docker image
